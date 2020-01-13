@@ -1,2 +1,2 @@
 # Going-Green
-Final Project for the course IFT 6390 - Introduction to Machine Learning
+Final Project for the course IFT 6390 - Introduction to Machine Learning (Fall 2019)
