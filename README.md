@@ -1,4 +1,4 @@
-# Going-Green
+# Sail-Away
 
 We study a yacht dataset with the help of four different regression algorithms in order to evaluate performance of sailing yachts. The goal is to produce a regression model that can predict a performance factor (residuary resistance) for a sailing boat.
 
